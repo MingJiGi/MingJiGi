@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&theme=tokyonight&height=180&text=Compiling%20knowledge...&animation=blinking&fontColor=70a5fd&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&theme=tokyonight&height=180&text=Compiling%20knowledge...&fontColor=70a5fd&fontSize=50" />
 </div>
 
 <div align="center">
@@ -27,7 +27,6 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏅 Stats</h2>
     <br>
-    <!-- 상단 배너 및 카운터와 일체감을 주는 tokyonight 테마 통계 카드 -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MingJiGi&theme=tokyonight" alt="GitHub Streak" />
     <br/><br/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MingJiGi&theme=tokyonight" alt="Top Languages" />
