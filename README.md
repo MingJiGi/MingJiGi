@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img src="https://komarev.com/badge/counter/github/?username=MingJiGi&color=39adb5&style=flat-square&label=VISITORS" alt="Visitors" />
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE-39adb5?style=flat-square&logo=github&logoColor=white">
 </div>
 
 <div align="center">
