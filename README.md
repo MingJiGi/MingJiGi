@@ -23,14 +23,15 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🧑‍💻 Contact me</h2>
     <br>
-    <!-- 고장 나지 않는 안정한 Hits 뱃지로 대체 -->
-    <img src="https://komarev.com/badge/counter/github/?username=MingJiGi&color=blue&style=flat-square" alt="Views" />
+    <!-- 가장 에러가 없고 깔끔한 고정형 Hits 뱃지 -->
+    <img src="https://hits.dwyl.com/MingJiGi/MingJiGi.svg" alt="Hits" />
 </div>
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏅 Stats</h2>
     <br>
-    <!-- 트래픽이 안정적인 미러(Mirror) 서버 주소로 변경 -->
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=MingJiGi&theme=radical" />
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=MingJiGi&layout=compact&theme=radical" />
+    <!-- 서버 에러가 없기로 유명한 커밋 스트릭(잔디 유지) 카드와 다크모드 통계 카드 -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MingJiGi&theme=radical" alt="GitHub Streak" />
+    <br/><br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MingJiGi&theme=2077" alt="Top Languages" />
 </div>
