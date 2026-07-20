@@ -3,6 +3,13 @@
 </div>
 
 <div align="center">
+    <!-- 이쁜 그래디언트 스타일의 Hits 뱃지 (Contact me 문구 삭제) -->
+    <a href="https://github.com/MingJiGi">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingJiGi&count_bg=%234158D0&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=VISITORS&edge_flat=false"/>
+    </a>
+</div>
+
+<div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🛠️ Tech Stacks</h2>
     <br>
     <div style="margin: 0 auto; text-align: center;">
@@ -21,17 +28,10 @@
 </div>
 
 <div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🧑‍💻 Contact me</h2>
-    <br>
-    <!-- 가장 에러가 없고 깔끔한 고정형 Hits 뱃지 -->
-    <img src="https://hits.dwyl.com/MingJiGi/MingJiGi.svg" alt="Hits" />
-</div>
-
-<div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏅 Stats</h2>
     <br>
-    <!-- 서버 에러가 없기로 유명한 커밋 스트릭(잔디 유지) 카드와 다크모드 통계 카드 -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MingJiGi&theme=radical" alt="GitHub Streak" />
+    <!-- 상단 배너와 일체감을 주는 세련된 'tokyonight' 테마로 변경 -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MingJiGi&theme=tokyonight" alt="GitHub Streak" />
     <br/><br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MingJiGi&theme=2077" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MingJiGi&theme=tokyonight" alt="Top Languages" />
 </div>
