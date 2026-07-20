@@ -23,14 +23,14 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🧑‍💻 Contact me</h2>
     <br>
-    <a href="https://hits.seeyoufarm.com">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingJiGi%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
-    </a>
+    <!-- 고장 나지 않는 안정한 Hits 뱃지로 대체 -->
+    <img src="https://komarev.com/badge/counter/github/?username=MingJiGi&color=blue&style=flat-square" alt="Views" />
 </div>
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏅 Stats</h2>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=MingJiGi&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingJiGi&layout=compact&theme=radical" />
+    <!-- 트래픽이 안정적인 미러(Mirror) 서버 주소로 변경 -->
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=MingJiGi&theme=radical" />
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=MingJiGi&layout=compact&theme=radical" />
 </div>
